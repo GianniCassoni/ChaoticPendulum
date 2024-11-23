@@ -31,5 +31,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ![LCE](imag/LCE_ICON.png)
 
 ---
-
-Feel free to adjust any sections to better fit your project’s specifics or your personal style! If you need further assistance or additional sections, let me know!
