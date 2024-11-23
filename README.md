@@ -2,6 +2,8 @@
 
 This project explores the application of the Lyapunov Characteristic Exponent (LCE) to analyze the chaotic behavior of a pendulum system using CUDA for parallel computing
 
+![LCE](imag/LCE_ICON.png)
+
 ## Overview
 
 The Lyapunov Characteristic Exponent is a measure of the average rate at which nearby trajectories in a dynamical system converge or diverge. A positive Lyapunov exponent indicates chaos, while a negative exponent suggests stability. This project implements a numerical simulation to compute the LCE for a chaotic pendulum, leveraging the power of CUDA to accelerate the computations.
@@ -27,7 +29,5 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-![LCE](imag/LCE_ICON.png)
 
 ---
